@@ -1,3 +1,3 @@
 ## Heewo 👋
 
-I'm currently working on an ai-powered app and I just started the Data Science bootcamp at Lighthouse Labs!
+I'm a startup co-founder and I'm nearly done my Data Science program @ LHL!
